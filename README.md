@@ -1,7 +1,7 @@
 
 > Open this page at [https://jwunderl.github.io/force-merge-conflict-eg/](https://jwunderl.github.io/force-merge-conflict-eg/)
 
-## Use as Extension
+## Use as Extensionsasdfasdf
 
 This repository can be added as an **extension** in MakeCode.
 
